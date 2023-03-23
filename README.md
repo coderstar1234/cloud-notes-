@@ -1,22 +1,17 @@
-# cloud-notes-
-Cloud note pad 🗒️🗒️🗒️🗒️ make html CSS and JavaScript.
+<h1 align="center"> Cloud Note</h1>
 
+Cloud Note is a web-based application that allows users to create, manage, and organize notes in the cloud.
+With Cloud Note, users can access their notes from anywhere with an internet connection and never have to worry about losing their notes again.
+Cloud note pad 🗒️ make html CSS and JavaScript.
 Cloud Note App Created.
 
-
-Himanshu Vashistha
-New project name is cloud note.make a readme file for GitHub.
-
-Cloud Note
-Cloud Note is a web-based application that allows users to create, manage, and organize notes in the cloud. With Cloud Note, users can access their notes from anywhere with an internet connection and never have to worry about losing their notes again.
-
-Features
+<h1 align="center">Features</h1>
 Create notes with a title and body.
 Edit and delete existing notes.
 Organize notes into categories.
 Search for notes by title or category.
 Share notes with other users.
-Technologies Used
+<h1 align="center">Technologies Used</h1>
 React
 Node.js
 Express
@@ -24,14 +19,14 @@ MongoDB
 JWT for authentication
 AWS S3 for storing note attachments
 Heroku for deployment
-Getting Started
+<h1 align="center">Getting Started</h1>
 To run this application on your local machine, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/cloud-note.git
 Install dependencies: npm install
 Start the server: npm start
 Open your browser and go to http://localhost:3000
-Deployment
+<h1 align="center">Deployment
 To deploy this application to Heroku, follow these steps:
 
 Create a Heroku account and install the Heroku CLI.
@@ -40,27 +35,18 @@ Deploy the code to Heroku: git push heroku master
 Provision a MongoDB database: heroku addons:create mongolab
 Set environment variables: heroku config:set MONGODB_URI=your-mongodb-uri JWT_SECRET=your-jwt-secret AWS_ACCESS_KEY_ID=your-aws-access-key-id AWS_SECRET_ACCESS_KEY=your-aws-secret-access-key AWS_REGION=your-aws-region AWS_BUCKET_NAME=your-aws-bucket-name
 Restart the app: heroku restart
-Contributing
+<h1 align="center">Contributing</h1>
 If you would like to contribute to this project, please open a pull request with your changes. Before submitting a pull request, please make sure your changes pass the tests and follow the code style guidelines.
 
-License
+<h1 align="center">License</h1>
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
 
 
-Himanshu Vashistha
-Using in HTML5, CSS and JavaScript.
 
-Cloud Note
-Cloud Note is a web-based application that allows users to create, manage, and organize notes in the cloud. With Cloud Note, users can access their notes from anywhere with an internet connection and never have to worry about losing their notes again.
 
-Features
-Create notes with a title and body.
-Edit and delete existing notes.
-Organize notes into categories.
-Search for notes by title or category.
-Share notes with other users.
+
 Technologies Used
 HTML5
 CSS
