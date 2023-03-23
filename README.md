@@ -12,52 +12,18 @@ Organize notes into categories.
 Search for notes by title or category.
 Share notes with other users.
 <h1 align="center">Technologies Used</h1>
-React
-Node.js
-Express
-MongoDB
-JWT for authentication
-AWS S3 for storing note attachments
-Heroku for deployment
-<h1 align="center">Getting Started</h1>
-To run this application on your local machine, follow these steps:
-
-Clone the repository: git clone https://github.com/your-username/cloud-note.git
-Install dependencies: npm install
-Start the server: npm start
-Open your browser and go to http://localhost:3000
-<h1 align="center">Deployment
-To deploy this application to Heroku, follow these steps:
-
-Create a Heroku account and install the Heroku CLI.
-Create a new Heroku app: heroku create
-Deploy the code to Heroku: git push heroku master
-Provision a MongoDB database: heroku addons:create mongolab
-Set environment variables: heroku config:set MONGODB_URI=your-mongodb-uri JWT_SECRET=your-jwt-secret AWS_ACCESS_KEY_ID=your-aws-access-key-id AWS_SECRET_ACCESS_KEY=your-aws-secret-access-key AWS_REGION=your-aws-region AWS_BUCKET_NAME=your-aws-bucket-name
-Restart the app: heroku restart
-<h1 align="center">Contributing</h1>
-If you would like to contribute to this project, please open a pull request with your changes. Before submitting a pull request, please make sure your changes pass the tests and follow the code style guidelines.
-
-<h1 align="center">License</h1>
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-
-
-
-
-
-
-Technologies Used
 HTML5
 CSS
 JavaScript
 jQuery
+React
+Node.js
+Express
+MongoDB
 Firebase Realtime Database
-Getting Started
-To run this application on your local machine, follow these steps:
-
-Clone the repository: git clone https://github.com/your-username/cloud-note.git
-Open index.html in your web browser.
+JWT for authentication
+AWS S3 for storing note attachments
+Heroku for deployment
 Deployment
 To deploy this application to a web server, follow these steps:
 
@@ -78,8 +44,33 @@ const firebaseConfig = {
 };
 firebase.initializeApp(firebaseConfig);
 Deploy your files to a web server.
-Contributing
+<h1 align="center">Getting Started</h1>
+To run this application on your local machine, follow these steps:
+
+Clone the repository: git clone https://github.com/your-username/cloud-note.git
+Install dependencies: npm install
+Start the server: npm start
+Open your browser and go to http://localhost:3000
+<h1 align="center">Deployment</h1>
+To deploy this application to Heroku, follow these steps:
+
+Create a Heroku account and install the Heroku CLI.
+Create a new Heroku app: heroku create
+Deploy the code to Heroku: git push heroku master
+Provision a MongoDB database: heroku addons:create mongolab
+Set environment variables: heroku config:set MONGODB_URI=your-mongodb-uri JWT_SECRET=your-jwt-secret AWS_ACCESS_KEY_ID=your-aws-access-key-id AWS_SECRET_ACCESS_KEY=your-aws-secret-access-key AWS_REGION=your-aws-region AWS_BUCKET_NAME=your-aws-bucket-name
+Restart the app: heroku restart
+<h1 align="center">Contributing</h1>
 If you would like to contribute to this project, please open a pull request with your changes. Before submitting a pull request, please make sure your changes pass the tests and follow the code style guidelines.
 
-License
+<h1 align="center">License</h1>
 This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+
+
+
+
+
+
+
+
