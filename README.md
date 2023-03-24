@@ -35,27 +35,33 @@ To deploy this application to a web server, follow these steps:
 - Create a Firebase account and create a new project.
 - Enable the Firebase Realtime Database for your project.
 - Add the Firebase SDK to your project: 
-<script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-app.js"></script><script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-database.js"></script>
-Initialize Firebase in your JavaScript code:
-javascript
-Copy code
-const firebaseConfig = {
-  apiKey: "your-api-key",
-  authDomain: "your-auth-domain",
-  databaseURL: "your-database-url",
-  projectId: "your-project-id",
-  storageBucket: "your-storage-bucket",
-  messagingSenderId: "your-messaging-sender-id",
-  appId: "your-app-id"
-};
-firebase.initializeApp(firebaseConfig);
+<script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-app.js"><br>
+</script><script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-database.js"></script>
+<p  align=" center" >Initialize Firebase in your JavaScript code:
+<br>
+<h3 align=" center" >Copy code</h3>
+const firebaseConfig = {<br>
+  apiKey: "your-api-key",<br>
+  authDomain: "your-auth-domain",<br>
+  databaseURL: "your-database-url",<br>
+  projectId: "your-project-id",<br><br
+  storageBucket: "your-storage-bucket",<br>
+  messagingSenderId: "your-messaging-sender-id",<br>
+  appId: "your-app-id"<br>
+};<br>
+firebase.initializeApp(firebaseConfig);</p>
+
 - Deploy your files to a web server.
 <hr>
 <h1 align="center">Getting Started</h1>
 
-To run this application on your local machine, follow these steps:
+<p  align=" center" >To run this application on your local machine, follow these steps:</p>
+<h3 align=" center" >local machine:📺 </h3>
+<h3 align=" center" >Clone the repository:</h3>
+<p  align=" center" >git clone :📝<br>  git clone https://github.com/your-username/cloud-note.git</p>
+  
 
-- Clone the repository: git clone https://github.com/your-username/cloud-note.git
+
 - Install dependencies: npm install
 - Start the server: npm start
 - Open your browser and go to http://localhost:3000
