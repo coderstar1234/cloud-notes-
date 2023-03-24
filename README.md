@@ -1,9 +1,13 @@
-<h1 align="center"> Cloud Note</h1>
+<h1 align="center"> CLOUD NOTE</h1>
+<div align="center" >
+<img height="300" wedith="300" src="https://th.bing.com/th/id/R.b0eddfe80e9e3db6f842a3c90cbada82?rik=8MzxI7C3umRtoQ&riu=http%3a%2f%2fclipart-library.com%2fimages%2fATbrBKa5c.gif&ehk=Mb6Kygtf00vArUjGJIyMOZALv30u6ouvAwQGk%2fbvpWY%3d&risl=&pid=ImgRaw&r=0"></div>
 
 - Cloud Note is a web-based application that allows users to create, manage, and organize notes in the cloud.
 - With Cloud Note, users can access their notes from anywhere with an internet connection and never have to worry about losing their notes again.
 - Cloud note pad 🗒️ make html CSS and JavaScript.
 - Cloud Note App Created.
+<div align="center" >
+<img height="300" wedith="300" src="https://th.bing.com/th/id/R.704701eeb4876929d15bd870beeab85d?rik=%2f72MF5X6AOQgUg&riu=http%3a%2f%2fbestanimations.com%2fBooks%2fwriting%2fwriting-notes-book-old-feather-animated-gif.gif&ehk=FGzvqqhpuKUAnQd62Nn2meo3wvcHN%2fPY2A%2fQ5wAHLRo%3d&risl=&pid=ImgRaw&r=0"></div>
 <hr>
 <h1 align="center">Features</h1>
 
