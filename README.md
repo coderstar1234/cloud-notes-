@@ -9,7 +9,7 @@
 <div align="center" >
 <img height="300" wedith="300" src="https://th.bing.com/th/id/R.704701eeb4876929d15bd870beeab85d?rik=%2f72MF5X6AOQgUg&riu=http%3a%2f%2fbestanimations.com%2fBooks%2fwriting%2fwriting-notes-book-old-feather-animated-gif.gif&ehk=FGzvqqhpuKUAnQd62Nn2meo3wvcHN%2fPY2A%2fQ5wAHLRo%3d&risl=&pid=ImgRaw&r=0"></div>
 <hr>
-<h1 align="center">Features:🧩</h1>
+<h1 align="center">Features:-🧩</h1>
 
 - Create notes with a title and body.
 - Edit and delete existing notes.
