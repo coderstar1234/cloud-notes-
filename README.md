@@ -1,4 +1,4 @@
-<h1 align="center"> CLOUD NOTE 💭📝</h1>
+<h1 align="center"> CLOUD NOTE : 🎵 💭📝</h1>
 <div align="center" >
 <img height="300" wedith="300" src="https://th.bing.com/th/id/R.b0eddfe80e9e3db6f842a3c90cbada82?rik=8MzxI7C3umRtoQ&riu=http%3a%2f%2fclipart-library.com%2fimages%2fATbrBKa5c.gif&ehk=Mb6Kygtf00vArUjGJIyMOZALv30u6ouvAwQGk%2fbvpWY%3d&risl=&pid=ImgRaw&r=0"></div>
 
