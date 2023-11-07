@@ -32,7 +32,7 @@
 - AWS S3 for storing note attachments
 - Heroku for deployment
 <hr>
-<h1 align="center">Deployment:💻</h1>
+<h1 align="center">Deployment:-💻</h1>
 
 To deploy this application to a web server, follow these steps:
 
