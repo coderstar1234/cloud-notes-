@@ -87,7 +87,7 @@ set MONGODB_URI=your-mongodb-uri JWT_SECRET=your-jwt-secret AWS_ACCESS_KEY_ID=yo
 
 - If you would like to contribute to this project, please open a pull request with your changes. Before submitting a pull request, please make sure your changes pass the tests and follow the code style guidelines.
 <hr>
-<h1 align="center">License📙</h1>
+<h1 align="center">License:📙</h1>
 
 - This project is licensed under the MIT License - see the LICENSE.md file for details.
 <hr>
