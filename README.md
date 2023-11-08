@@ -70,7 +70,7 @@ firebase.initializeApp(firebaseConfig);</p>
 - Start the server: npm start
 - Open your browser and go to http://localhost:3000
 <hr>
-<h1 align="center">Deployment:🧾</h1>
+<h1 align="center">Deployment:-🧾</h1>
 
 To deploy this application to Heroku, follow these steps:
 
