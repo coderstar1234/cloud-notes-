@@ -17,7 +17,7 @@
 - Search for notes by title or category.
 - Share notes with other users.
 <hr>
-<h1 align="center">Technologies Used:👩‍💻</h1>
+<h1 align="center">Technologies Used:-👩‍💻</h1>
 
 - HTML5
 - CSS
