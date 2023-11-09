@@ -43,7 +43,7 @@ To deploy this application to a web server, follow these steps:
 </script><script src="https://www.gstatic.com/firebasejs/8.6.2/firebase-database.js"></script>
 <p  align=" center" >Initialize Firebase in your JavaScript code:
 <br>
-<h3 align=" center" >Copy code:✏️</h3>
+<h3 align=" center" >Copy code:-✏️</h3>
 const firebaseConfig = {<br>
   apiKey: "your-api-key",<br>
   authDomain: "your-auth-domain",<br>
