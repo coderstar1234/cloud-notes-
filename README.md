@@ -62,7 +62,7 @@ firebase.initializeApp(firebaseConfig);</p>
 <p  align=" center" >To run this application on your local machine, follow these steps:</p>
 <h3 align=" center" >local machine:-📺 </h3>
 <h3 align=" center" >Clone the repository:</h3>
-<p  align=" center" >git clone :📝<br>  git clone https://github.com/your-username/cloud-note.git</p>
+<p  align=" center" >git clone :-📝<br>  git clone https://github.com/your-username/cloud-note.git</p>
   
 
 
