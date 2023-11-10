@@ -57,7 +57,7 @@ firebase.initializeApp(firebaseConfig);</p>
 
 - Deploy your files to a web server.
 <hr>
-<h1 align="center">Getting Started▶️</h1>
+<h1 align="center">Getting Started:▶️</h1>
 
 <p  align=" center" >To run this application on your local machine, follow these steps:</p>
 <h3 align=" center" >local machine:📺 </h3>
