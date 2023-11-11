@@ -83,7 +83,7 @@ heroku config:
 set MONGODB_URI=your-mongodb-uri JWT_SECRET=your-jwt-secret AWS_ACCESS_KEY_ID=your-aws-access-key-id AWS_SECRET_ACCESS_KEY=your-aws-secret-access-key AWS_REGION=your-aws-region AWS_BUCKET_NAME=your-aws-bucket-name
 - Restart the app: heroku restart
 <hr>
-<h1 align="center">Contributing:👬</h1>
+<h1 align="center">Contributing:-👬</h1>
 
 - If you would like to contribute to this project, please open a pull request with your changes. Before submitting a pull request, please make sure your changes pass the tests and follow the code style guidelines.
 <hr>
